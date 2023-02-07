@@ -131,3 +131,4 @@ dmypy.json
 .idea/
 src/tools/conversor/
 src/tools/delete/
+src/run/
